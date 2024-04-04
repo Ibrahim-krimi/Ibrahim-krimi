@@ -3,9 +3,13 @@
 🌟 About Me:
 
 🛡️ Passionate about Security: I'm always exploring the latest trends and techniques in cybersecurity to ensure robust solutions.
+
 🤖 Currently Learning AI: I'm actively enhancing my skills in artificial intelligence, excited about its potential to transform technology.
+
 🌍 Open to Collaboration: I'm eager to join forces with others on innovative projects, particularly those that align with my passions.
+
 📚 Educational Pursuit: As a Master's student in the MIAGE MBDS program, I am sharpening my competencies across a spectrum of software and development methodologies.
+
 💼 Technical Skills:
 
 #### Versatile in Programming Languages: 
