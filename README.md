@@ -2,16 +2,31 @@
 
 🌟 About Me:
 
-🛡️ Passionate about Security: Always exploring the latest trends and techniques in cybersecurity.
-🤖 Currently Learning AI: Diving deep into artificial intelligence to enhance my skills and knowledge.
-🌍 Open to Collaboration: Eager to work with like-minded individuals on exciting projects, especially those related to my interests.
-📚 Master's Student: Enrolled in the MIAGE MBDS program, where I'm honing my skills in various software and development practices.
+🛡️ Passionate about Security: I'm always exploring the latest trends and techniques in cybersecurity to ensure robust solutions.
+🤖 Currently Learning AI: I'm actively enhancing my skills in artificial intelligence, excited about its potential to transform technology.
+🌍 Open to Collaboration: I'm eager to join forces with others on innovative projects, particularly those that align with my passions.
+📚 Educational Pursuit: As a Master's student in the MIAGE MBDS program, I am sharpening my competencies across a spectrum of software and development methodologies.
 💼 Technical Skills:
 
-Programming Languages: Proficient in Java and PHP, with a strong foundation in software development.
-Front-End Development: Skilled in AngularJS, jQuery, AJAX, and other front-end technologies.
-DevOps and Deployment: Experienced with Jenkins, Hibernate, Docker, and other tools for efficient software deployment and management.
+#### Versatile in Programming Languages: 
+Proficient in Java, PHP, and .NET, I'm adept at building robust, scalable systems.
+
+#### Full Spectrum Development: 
+From Spring and Symfony in Java to Laravel in PHP, I craft back-end systems that power dynamic web applications.
+
+#### Front-End Mastery: 
+Whether it's Angular, Vue.js, or ReactJS, I create seamless user experiences with modern front-end frameworks.
+
+#### Mobile Technologies Savvy: 
+I develop cutting-edge mobile applications using Android Studio with Kotlin and cross-platform solutions with Flutter.
+
+#### Architecture Flexibility: 
+Comfortable with both microservices and monolithic architectures, I can adapt to project needs with ease.
+
+#### API Development Expertise: 
+Leveraging Node.js, I design and implement efficient, scalable APIs that serve as the backbone for applications.
+
 📫 Connect with Me:
 
-Email: ibrahimkrimi2@gmail.com
-Feel free to reach out for collaborations, discussions, or any exciting opportunities!
+📧 Email: ibrahimkrimi2@gmail.com
+🤝 Feel free to reach out for collaborations, discussions, or any exciting opportunities!
